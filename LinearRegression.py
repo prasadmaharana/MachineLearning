@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 #importing the dataset
 
-data=pd.read_csv("data.csv")
+data=pd.read_csv("data_LinearReg.csv")
 
 #splitting the features
 
