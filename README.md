@@ -1,5 +1,10 @@
 # MachineLearning
 
-# This is a collection of all known machine learning models that I have learnt and implemented on realtime datasets.
+# Regression Models
 
-This repository also showcases my machine learning skills.All the code written in each model is self-written with help from stackoverflow.
+> Linear
+> Multiple Linear
+> Polynomial
+> SVR or Support Vector Regression
+> Decision Tree regression
+> Random forest regression
