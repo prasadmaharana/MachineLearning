@@ -1,6 +1,5 @@
 # MachineLearning
 
-# MachineLearning
 
 # This is a collection of all known machine learning models that I have learnt and implemented on realtime datasets.
 
